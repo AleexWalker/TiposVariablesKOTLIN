@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TiposVariablesKOTLIN</string>
+    <string name="lado_del_cuadrado">Lado del cuadrado</string>
+    <string name="sacar">Sacar</string>
+</resources>
